@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Draft Footz](https://github.com/draft-footz/draft-footz)
+- 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PHP
 
 - 💬 Ask me about **anything!**
 
